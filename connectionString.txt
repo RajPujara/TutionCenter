@@ -1,0 +1,8 @@
+After connect the database on server explorer and copy the link from data connection properties connection string 
+
+connect the following link inside connection string
+
+<add name="Myconnection" connectionString="Data Source=DESKTOP-1LOJEQJ;Initial Catalog=TutionCenter;Integrated Security=True"
+      providerName="System.Data.SqlClient" />
+
+
